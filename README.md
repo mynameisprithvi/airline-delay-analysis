@@ -57,7 +57,6 @@ controls for airport, route, or weather conditions.
 └── README.md
 
 
-
 ## Tools Used
 - Python
 - pandas, NumPy
@@ -67,5 +66,6 @@ controls for airport, route, or weather conditions.
 ## Status
 Complete. This project focuses on exploratory analysis and statistical validation rather than
 predictive modeling.
+
 
 
