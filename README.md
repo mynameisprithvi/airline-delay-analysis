@@ -7,6 +7,14 @@ analysis explores how delays vary across airlines and seasons, with an emphasis 
 systematic patterns and validating observations statistically rather than predicting individual
 flight delays.
 
+### Data Availability
+The raw and processed datasets (~800MB) are not included in this repository due to size
+constraints. They are available for reference via Google Drive:
+
+[Google Drive link: https://drive.google.com/drive/folders/1xn9mnF0doqKMbutwo-MwALw35Q3lQ3i5?usp=drive_link ]
+
+All preprocessing steps are documented in the repository scripts.
+
 
 ## Key Questions
 - Do average departure delays differ across airlines?
@@ -59,4 +67,5 @@ controls for airport, route, or weather conditions.
 ## Status
 Complete. This project focuses on exploratory analysis and statistical validation rather than
 predictive modeling.
+
 
