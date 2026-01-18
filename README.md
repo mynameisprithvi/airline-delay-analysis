@@ -38,16 +38,16 @@ controls for airport, route, or weather conditions.
   are not controlled for.
 - Results should be interpreted as descriptive patterns rather than performance rankings.
 
-## Project Structure
 ├── notebooks/
-│ └── airline_delay_eda_and_stats.ipynb
+│   └── airline_delay_eda_and_stats.ipynb
 ├── scripts/
-│ ├── data_loading.py
-│ └── preprocessing.py
+│   ├── data_loading.py
+│   └── preprocessing.py
 ├── data/
-│ └── raw
-│ └── processed
+│   ├── raw/
+│   └── processed/
 └── README.md
+
 
 
 ## Tools Used
@@ -59,3 +59,4 @@ controls for airport, route, or weather conditions.
 ## Status
 Complete. This project focuses on exploratory analysis and statistical validation rather than
 predictive modeling.
+
