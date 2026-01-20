@@ -53,9 +53,7 @@ controls for airport, route, or weather conditions.
 - scripts/
   - data_loading.py
   - preprocessing.py
-- data/
-  - raw/
-  - processed/
+
 - README.md
 
 
@@ -68,6 +66,7 @@ controls for airport, route, or weather conditions.
 ## Status
 Complete. This project focuses on exploratory analysis and statistical validation rather than
 predictive modeling.
+
 
 
 
